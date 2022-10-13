@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/learn-co-curriculum/js-advanced-functions-first-class-functions-lab.git"
+    "url": "git+ssh://git@github.com/learn-co-curriculum/js-advanced-functions-first-class-functions-lab.git --bail"
   },
   "keywords": [
     "learn",
